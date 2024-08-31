@@ -1,4 +1,4 @@
 # FirstProject
 This is My First GitHub
 <br>
-Author- Krishna Jayswal
+Author- Krishna Jayswal is very Smart
